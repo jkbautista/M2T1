@@ -35,3 +35,21 @@ h2 {
     font-weight: 700;
     margin-bottom: var(--space-small);
 }
+
+header {
+    padding: var(--space-large);
+    text-align: center;
+    margin-bottom: var(--space-medium);
+
+}
+
+main {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: var(--space-large);
+}
+
+section {
+    padding: var(--space-medium);
+    margin-bottom: var(--space-large);
+}
